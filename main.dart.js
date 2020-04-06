@@ -38860,14 +38860,14 @@ t.push(new U.n8("",!1,!0,r,r,r,!1,r,C.E,C.k,"",!0,!1,r,C.a7))
 return!1}return!0}}
 F.vn.prototype={
 L:function(a){var t=null,s=X.RH(C.vc,t,t,"Lato",C.vb)
-return new S.nX(new Q.wn(H.b([T.Iz("13+2MP dual rear AI camera with PDAF | 8MP front camera ","p1","assets/1.jpeg",99999.99,"Redmi 8A Dual (Sea Blue, 2GB RAM, 32GB Storage) \u2013 Dual Cameras & 5,000 mAH Battery "),T.Iz("6.1-inch Liquid Retina HD LCD display ","p2","assets/2.jpg",59875.99,"Apple iPhone 11 (64GB) - (Product) RED "),T.Iz("48MP + 8MP + 2MP rear camera and 16MP front facing camera ","p3","assets/3.jpg",62819.99,"Honor 9X (Sapphire Blue, 4+128GB Storage)-Pop up Front Camera & 48M Triple Rear Camera "),T.Iz("64MP+13MP+8MP+2MP rear quad camera with 20x digital zoom, ultra clear 108MP image, ultra dark mode, macroshot (3 cm), ultra-wide angle, dual lens bokeh | 44MP+2MP dual punch hole front camera ","p4","assets/4.jpg",57849.99,"OPPO Reno3 Pro (Auroral Blue, 8GB RAM, 128GB Storage)")],u.ff),t),P.bk(["/product-detail",new F.Hv()],u.N,u.hw),"MyShop",s,t)}}
+return new S.nX(new Q.wn(H.b([T.Iz("13+2MP dual rear AI camera with PDAF | 8MP front camera ","p1","https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/assets/1.jpeg",99999.99,"Redmi 8A Dual (Sea Blue, 2GB RAM, 32GB Storage) \u2013 Dual Cameras & 5,000 mAH Battery "),T.Iz("6.1-inch Liquid Retina HD LCD display ","p2","https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/assets/2.jpg",59875.99,"Apple iPhone 11 (64GB) - (Product) RED "),T.Iz("48MP + 8MP + 2MP rear camera and 16MP front facing camera ","p3","https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/assets/3.jpg",62819.99,"Honor 9X (Sapphire Blue, 4+128GB Storage)-Pop up Front Camera & 48M Triple Rear Camera "),T.Iz("64MP+13MP+8MP+2MP rear quad camera with 20x digital zoom, ultra clear 108MP image, ultra dark mode, macroshot (3 cm), ultra-wide angle, dual lens bokeh | 44MP+2MP dual punch hole front camera ","p4","https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/assets/4.jpg",57849.99,"OPPO Reno3 Pro (Auroral Blue, 8GB RAM, 128GB Storage)")],u.ff),t),P.bk(["/product-detail",new F.Hv()],u.N,u.hw),"MyShop",s,t)}}
 F.Hv.prototype={
 $1:function(a){return new S.kH(null)},
 $S:165}
 T.wl.prototype={}
 S.kH.prototype={
 L:function(a){T.Hk(a,u.K).toString
-return M.Uw(E.SU(L.L5("title",null,null)),null)}}
+return M.Uw(E.SU(L.L5("Title",null,null)),null)}}
 Q.wn.prototype={
 L:function(a){var t=null,s=E.SU(L.L5("MyShop",t,t))
 return M.Uw(s,new B.uE(new B.Kq(2,10,10,1.5),new G.Kl(new Q.ID(this),4,!0,!0,!0),C.tA,C.t,!1,t,!0,C.q0,!1,t,4,C.af,t))}}
