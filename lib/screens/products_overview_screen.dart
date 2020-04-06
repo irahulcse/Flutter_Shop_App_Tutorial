@@ -6,35 +6,34 @@ class ProductsOverviewScreen extends StatelessWidget {
   final List<Product> loadedProducts = [
     Product(
       id: 'p1',
-      title: 'Red Shirt',
-      description: 'A red shirt - it is pretty red!',
-      price: 29.99,
-      imageUrl:
-          'https://cdn.pixabay.com/photo/2016/10/02/22/17/red-t-shirt-1710578_1280.jpg',
+      title:
+          'Redmi 8A Dual (Sea Blue, 2GB RAM, 32GB Storage) – Dual Cameras & 5,000 mAH Battery ',
+      description: '13+2MP dual rear AI camera with PDAF | 8MP front camera ',
+      price: 99999.99,
+      imageUrl: 'assets/1.jpeg',
     ),
     Product(
       id: 'p2',
-      title: 'Trousers',
-      description: 'A nice pair of trousers.',
-      price: 59.99,
-      imageUrl:
-          'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Trousers%2C_dress_%28AM_1960.022-8%29.jpg/512px-Trousers%2C_dress_%28AM_1960.022-8%29.jpg',
+      title: 'Apple iPhone 11 (64GB) - (Product) RED ',
+      description: '6.1-inch Liquid Retina HD LCD display ',
+      price: 59875.99,
+      imageUrl: 'assets/2.jpg',
     ),
     Product(
       id: 'p3',
-      title: 'Yellow Scarf',
-      description: 'Warm and cozy - exactly what you need for the winter.',
-      price: 19.99,
+      title: 'Honor 9X (Sapphire Blue, 4+128GB Storage)-Pop up Front Camera & 48M Triple Rear Camera ',
+      description: '48MP + 8MP + 2MP rear camera and 16MP front facing camera ',
+      price: 62819.99,
       imageUrl:
-          'https://live.staticflickr.com/4043/4438260868_cc79b3369d_z.jpg',
+          'assets/3.jpg',
     ),
     Product(
       id: 'p4',
-      title: 'A Pan',
-      description: 'Prepare any meal you want.',
-      price: 49.99,
+      title: 'OPPO Reno3 Pro (Auroral Blue, 8GB RAM, 128GB Storage)',
+      description: '64MP+13MP+8MP+2MP rear quad camera with 20x digital zoom, ultra clear 108MP image, ultra dark mode, macroshot (3 cm), ultra-wide angle, dual lens bokeh | 44MP+2MP dual punch hole front camera ',
+      price: 57849.99,
       imageUrl:
-          'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cast-Iron-Pan.jpg/1024px-Cast-Iron-Pan.jpg',
+          'assets/4.jpg',
     ),
   ];
 
