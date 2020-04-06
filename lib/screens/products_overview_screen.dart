@@ -10,14 +10,14 @@ class ProductsOverviewScreen extends StatelessWidget {
           'Redmi 8A Dual (Sea Blue, 2GB RAM, 32GB Storage) – Dual Cameras & 5,000 mAH Battery ',
       description: '13+2MP dual rear AI camera with PDAF | 8MP front camera ',
       price: 99999.99,
-      imageUrl: 'assets/1.jpeg',
+      imageUrl: 'https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/assets/1.jpeg',
     ),
     Product(
       id: 'p2',
       title: 'Apple iPhone 11 (64GB) - (Product) RED ',
       description: '6.1-inch Liquid Retina HD LCD display ',
       price: 59875.99,
-      imageUrl: 'assets/2.jpg',
+      imageUrl: 'https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/assets/2.jpg',
     ),
     Product(
       id: 'p3',
@@ -25,7 +25,7 @@ class ProductsOverviewScreen extends StatelessWidget {
       description: '48MP + 8MP + 2MP rear camera and 16MP front facing camera ',
       price: 62819.99,
       imageUrl:
-          'assets/3.jpg',
+          'https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/assets/3.jpg',
     ),
     Product(
       id: 'p4',
@@ -33,7 +33,7 @@ class ProductsOverviewScreen extends StatelessWidget {
       description: '64MP+13MP+8MP+2MP rear quad camera with 20x digital zoom, ultra clear 108MP image, ultra dark mode, macroshot (3 cm), ultra-wide angle, dual lens bokeh | 44MP+2MP dual punch hole front camera ',
       price: 57849.99,
       imageUrl:
-          'assets/4.jpg',
+          'https://github.com/irahulcse/Flutter_Shop_App_Tutorial/blob/master/assets/4.jpg',
     ),
   ];
 
