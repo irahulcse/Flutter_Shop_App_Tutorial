@@ -12,7 +12,7 @@ The Parent Repository of this project can be found on this [link](https://github
 
 # Live Working Project:
 
-[Demo Application](https://irahulcse.github.io/Sound_View_App_Flutter/)
+[Demo Application](https://irahulcse.github.io/Flutter_Shop_App_Tutorial/#/)
 
 ## Features Needed to Be Added:
 
