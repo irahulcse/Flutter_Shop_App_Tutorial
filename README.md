@@ -1,7 +1,7 @@
 ![Image](images/rovers.jpg)
 # Flutter_Shop_App_Tutorial :boom:
 
-Flutter Shopping App is the basic app which I had developed to learn about the Modal Route and Grid View Builder widgets.
+Flutter Shopping App is the basic app which I had developed to learn about the Modal Route and Grid View Builder widget's.
 
 
 ### Show some love :heart: and star the repo to support the project
