@@ -1,4 +1,4 @@
-![Image](images/rovers2.jpg)
+![Image](images/rovers.jpg)
 # Flutter_Shop_App_Tutorial :boom:
 
 Flutter Shopping App is the basic app which I had developed to learn about the Modal Route and Grid View Builder widget's.
